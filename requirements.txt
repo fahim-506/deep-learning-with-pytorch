@@ -6,3 +6,6 @@ matplotlib
 torch
 torchvision
 requests
+torchmetrics
+tqdm
+mlxtend
